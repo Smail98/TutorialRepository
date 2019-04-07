@@ -62,8 +62,10 @@ used to have files of a website locally and linked to a website remote
 ### Terms to Know 
 1. Secure Socket Shell (SSH): used for sending text files 
 2. Port 22 in SSH: utilizes encryption
-3. Standard File Transfer File Protocol (SFTP) : also known as Secure Socket Shell, and this 
+3. Standard File Transfer Protocol (SFTP) :      known as Secure Socket Shell, and this 
                                                  sets up files that get automatically updated
                                                  in the afs server. the S in front of FTP means 
                                                  that encryption is used. In order for encryption
                                                  to be used, Port 22 was selected
+4. File Transfer Protocol (FTP) :       does not use encryption. and as a result Port 21 is used when 
+                                        selecting a host 
