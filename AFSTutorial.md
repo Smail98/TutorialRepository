@@ -1,6 +1,6 @@
-#How the Internet Works and Linux
-#AFS Tutorial by David Salazar
-#April 7th, 2019
+# How the Internet Works and Linux
+# AFS Tutorial by David Salazar
+# April 7th, 2019
 
 
 Logging Into AFS
