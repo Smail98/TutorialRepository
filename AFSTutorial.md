@@ -19,10 +19,12 @@
     * User name: your ucid username
     * Password: your ucid password
     
-3. 
+3. The following terminal window shows after successfully logging into AFS, 
+
+![alt text](img/AFSLogging3.PNG)
 
 
 
 ### Terms to Know 
 1. Secure Socket Shell (SSH): used for sending text files 
-2. Port 22 
+2. Port 22 in SSH: utilizes encryption 
