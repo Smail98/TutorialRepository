@@ -48,7 +48,8 @@ used to have files of a website locally and linked to a website remote
 
 4. Select Tools, Deployment, Automatic upload
 
-5. Tools, Deployment, Brows Remote Host 
+5. Tools, Deployment, Browse Remote Host. The remote host w/ files will appear on the upper right side of your screen.
+![alt text](img/AFSLogging7.PNG)
 
 
 ### Terms to Know 
