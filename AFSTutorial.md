@@ -13,7 +13,7 @@
 
 ![alt text](img/AFSLogging2.PNG)
 
-   Enter the following, 
+    Enter the following, 
     * afs(any number between 1-22).njit.edu
     * your ucid username
     * your ucid password
