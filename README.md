@@ -8,4 +8,4 @@
 ## Index 
 ### link to the repository: https://github.com/Smail98/TutorialRepository.git
 
-### link to How the Internet Works: HowTheInternetWorks.md
+### link to How the Internet Works: https://github.com/Smail98/TutorialRepository/blob/master/HowTheInternetWorks.md
