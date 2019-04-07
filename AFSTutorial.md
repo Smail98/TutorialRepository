@@ -46,6 +46,10 @@ used to have files of a website locally and linked to a website remote
 3. Add a .gitignore file to your project, and include .idea inside the file, and commit
 ![alt text](img/AFSLogging6.PNG)
 
+4. Select Tools, Deployment, Automatic upload
+
+5. Tools, Deployment, Brows Remote Host 
+
 
 ### Terms to Know 
 1. Secure Socket Shell (SSH): used for sending text files 
