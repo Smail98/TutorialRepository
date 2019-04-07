@@ -51,6 +51,11 @@ used to have files of a website locally and linked to a website remote
 5. Tools, Deployment, Browse Remote Host. The remote host w/ files will appear on the upper right side of your screen.
 ![alt text](img/AFSLogging7.PNG)
 
+6. Scroll over to the location of your remote host afs files (in step 5), and right click on the index.html file. 
+   Select the download from here option. Commit now. 
+   
+
+
 
 ### Terms to Know 
 1. Secure Socket Shell (SSH): used for sending text files 
