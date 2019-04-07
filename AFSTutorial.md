@@ -3,7 +3,7 @@
 # April 7th, 2019
 
 
-### Logging Into AFS
+### Logging Into AFS 
 
 1.Go to tools, Start SSH session, edit credentials.
 
@@ -14,9 +14,15 @@
 ![alt text](img/AFSLogging2.PNG)
 
     Enter the following, 
-    * afs(any number between 1-22).njit.edu
-    * your ucid username
-    * your ucid password
+    * Host: afs(any number between 1-22).njit.edu
+    * Port: 22
+    * User name: your ucid username
+    * Password: your ucid password
     
 3. 
 
+
+
+### Terms to Know 
+1. Secure Socket Shell (SSH): used for sending text files 
+2. Port 22 
