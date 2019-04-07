@@ -24,7 +24,34 @@
 ![alt text](img/AFSLogging3.PNG)
 
 
+### Deployment
+used to have files of a website locally and linked to a website remote 
+
+1. Go to tools, Deployment, and select configuration, click on the + tab, name host, select SFTP
+
+![alt text](img/AFSLogging4.PNG) 
+
+    Enter the following, 
+    * Host: afs(any number between 1-22).njit.edu
+    * Port: 22
+    * User name: your ucid username
+    * Password: your ucid password
+    * Test Connection. Make sure that the root path has /ucid/public html
+    * Webserver URL should read: http://web.njit.edu/~dfs23
+    
+2. In the deployment window select Mappings and add / in the Deployment path 
+
+![alt text](img/AFSLogging5.PNG)
+
+3. Add a .gitignore file to your project, and include .idea inside the file, and commit
+![alt text](img/AFSLogging6.PNG)
+
 
 ### Terms to Know 
 1. Secure Socket Shell (SSH): used for sending text files 
-2. Port 22 in SSH: utilizes encryption 
+2. Port 22 in SSH: utilizes encryption
+3. Standard File Transfer File Protocol (SFTP) : also known as Secure Socket Shell, and this 
+                                                 sets up files that get automatically updated
+                                                 in the afs server. the S in front of FTP means 
+                                                 that encryption is used. In order for encryption
+                                                 to be used, Port 22 was selected
