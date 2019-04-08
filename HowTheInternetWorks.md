@@ -69,3 +69,7 @@ used to have files of a website locally and linked to a website remote
                                                  to be used, Port 22 was selected
 4. File Transfer Protocol (FTP) :       does not use encryption. and as a result Port 21 is used when 
                                         selecting a host 
+5. HTTP: hyper text transfer protocol 
+6. HTTPS: secured hyper text transfer protocol 
+7. ICAN: runs Domain Name Server (DNS)
+8. Hirierchy of servers: there is a layer of DNS servers before the ICAN server can be reached 
