@@ -69,3 +69,8 @@ used to have files of a website locally and linked to a website remote
                                                  to be used, Port 22 was selected
 4. File Transfer Protocol (FTP) :       does not use encryption. and as a result Port 21 is used when 
                                         selecting a host 
+Important Terms:
+DNS- The Domain Name System is a hierarchical and decentralized naming system for computers, services, or other resources connected to the Internet or a private network. 
+IP-
+Domain Names-
+Top Level Domain(TLD)-
