@@ -69,7 +69,13 @@ used to have files of a website locally and linked to a website remote
                                                  to be used, Port 22 was selected
 4. File Transfer Protocol (FTP) :       does not use encryption. and as a result Port 21 is used when 
                                         selecting a host 
+
 Important Terms:
-DNS- The Domain Name System is a hierarchical and decentralized naming system for computers, services, or other resources connected to the Internet or a private network. 
+
+DNS- The Domain Name System is a hierarchical and decentralized naming system for computers, services, or other resources connected to the Internet or a private network.
+
 IP-  is the principal communications protocol in the Internet protocol suite for relaying datagrams across network boundaries. 
-Top Level Domain(TLD)-
+
+Top Level Domain(TLD)- one of the domains at the highest level in the hierarchical Domain Name System of the Internet. 
+
+Domain Names- 
