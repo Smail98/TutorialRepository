@@ -73,3 +73,18 @@ used to have files of a website locally and linked to a website remote
 6. HTTPS: secured hyper text transfer protocol 
 7. ICAN: runs Domain Name Server (DNS)
 8. Hierarchy of servers: there is a layer of DNS servers before the ICAN server can be reached 
+9. Software Protocol: an agreement on something being done. 
+10. Browser and functions: 
+    
+    
+    * browsers are used to connect to the web browser
+    * Browser sends the requests, 
+        1. get    : request to get a webpage
+        2. post   : post new records
+        3. put    : make updates
+        4. delete : delete 
+        5. patch  : update selectively 
+
+###Roy Fielding's Dissertation
+Describes how the internet can be used as agiant database with Representational State Transfer(RST). The reason for 
+using the internet as a giant database is to make it easyer to share information around the world. 
