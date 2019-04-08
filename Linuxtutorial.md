@@ -37,7 +37,8 @@ First we need to open a terminal or a shell in order to enter our commands
 distributions and is user-friendly. When entered with a filename, it pops up a new screen and has its own commands for 
 editing. 
 
-####Linux Permissions and commands
+###Linux Permissions and commands
+
 For security reasons, Linux divides user authorization into 2 levels: ownership and permission.
 
 Files and directory are assigned 3 different types of owners:
