@@ -86,7 +86,7 @@ used to have files of a website locally and linked to a website remote
         4. delete : delete 
         5. patch  : update selectively 
 
-11. URL : Universal resource locator (unique address. 
+11. URL : Universal resource locator (unique address). 
 
 Roy Fielding's Dissertation
 
