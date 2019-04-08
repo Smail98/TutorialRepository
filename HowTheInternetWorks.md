@@ -37,7 +37,7 @@ used to have files of a website locally and linked to a website remote
     * User name: your ucid username
     * Password: your ucid password
     * Test Connection. Make sure that the root path has /ucid/public html
-    * Webserver URL should read: http://web.njit.edu/~dfs23
+    * Webserver URL should read: http://web.njit.edu/~ucid
     
 2. In the deployment window select Mappings and add / in the Deployment path 
 
