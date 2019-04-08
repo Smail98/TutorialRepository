@@ -61,3 +61,30 @@ directory gives you the authority to add, remove and rename files stored in the 
 - **execute**: In linux, you need a permission in order to execute a program. You may be able to read it and modify it, 
 but without the execute permission, you will be limited to read/write features.
 
+You can see the permissions of a file or directory by typing "ls -l", this will show a code looking like this
+: **-rw-rw-r--**.
+
+Let's divide this code into 4 parts:
+1. **-**: the dash at the beginning of each permission indicates that it's a file. **d** indicates that its a directory.
+2. **rw-**: is the user or owner's permissions. As you can see, the permissions here are read and write only.
+3. **rw-**: the second 3 characters are the group's permissions. Here too, its read and write only.
+4. **r--**: is the other users' permissions. Its limited to read only.
+
+**chmod**: allows you to change the permission of a file. Its written this way:
+
+chmod permission filename
+
+The permission is typically written as a number. It's a code that represents one of the possible combination of permissions.
+You can find a list of permissions with its corresponding code online.
+
+**chown**: allows you to change ownership and groups for a file or directory. It's written this way:
+
+chown user filename
+
+- To change a user and a group:
+
+chown user:group filename
+
+- To change a group:
+
+chgrp group_name filename
