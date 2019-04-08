@@ -72,7 +72,7 @@ used to have files of a website locally and linked to a website remote
 
 5. HTTP: hyper text transfer protocol 
 6. HTTPS: secured hyper text transfer protocol 
-7. ICAN: runs Domain Name Server (DNS)
+7. ICAN: runs Domain Name Server (DNS). ICAN uses trees to run DNS servers
 8. Hierarchy of servers: there is a layer of DNS servers before the ICAN server can be reached 
 9. Software Protocol: an agreement on something being done. 
 10. Browser and functions: 
@@ -85,6 +85,8 @@ used to have files of a website locally and linked to a website remote
         3. put    : make updates
         4. delete : delete 
         5. patch  : update selectively 
+
+11. URL : Universal resource locator (unique address. 
 
 Roy Fielding's Dissertation
 
@@ -101,5 +103,5 @@ DNS- The Domain Name System is a hierarchical and decentralized naming system fo
 
 IP-  is the principal communications protocol in the Internet protocol suite for relaying datagrams across network boundaries.
 
-Top Level Domain(TLD)- one of the domains at the highest level in the hierarchical Domain Name System of the Internet. 
+Top Level Domain(TLD)- one of the domains at the highest level in the hierarchical Domain Name System of the Internet. It has a direct connection to ICAN
 
