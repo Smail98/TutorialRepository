@@ -85,6 +85,11 @@ used to have files of a website locally and linked to a website remote
         4. delete : delete 
         5. patch  : update selectively 
 
-###Roy Fielding's Dissertation
-Describes how the internet can be used as agiant database with Representational State Transfer(RST). The reason for 
-using the internet as a giant database is to make it easyer to share information around the world. 
+Roy Fielding's Dissertation
+
+Describes how the internet can be used as agiant database with Representational State Transfer(REST). The reason for 
+using the internet as a giant database is to make it easier to share information around the world. REST was used as a 
+guide to design and develop the architecture of the modern Web[1]. REST was used in the design of Hypertext Transfer 
+Protocol and Uniform Resource Indentifier standards from their deployment in Web client and server software.
+
+source:     1. https://www.ics.uci.edu/~fielding/pubs/dissertation/fielding_dissertation.pdf
