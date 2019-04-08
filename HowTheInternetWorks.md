@@ -100,7 +100,7 @@ source:     1. https://www.ics.uci.edu/~fielding/pubs/dissertation/fielding_diss
 Important Terms:
 
 DNS- The Domain Name System is a hierarchical and decentralized naming system for computers, services, or other resources connected to the Internet or a private network.
-
+     name -> ip: forward look up. ip -> name: reverse look up
 IP-  is the principal communications protocol in the Internet protocol suite for relaying datagrams across network boundaries.
 
 Top Level Domain(TLD)- one of the domains at the highest level in the hierarchical Domain Name System of the Internet. It has a direct connection to ICAN
