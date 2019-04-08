@@ -72,4 +72,4 @@ used to have files of a website locally and linked to a website remote
 5. HTTP: hyper text transfer protocol 
 6. HTTPS: secured hyper text transfer protocol 
 7. ICAN: runs Domain Name Server (DNS)
-8. Hirierchy of servers: there is a layer of DNS servers before the ICAN server can be reached 
+8. Hierarchy of servers: there is a layer of DNS servers before the ICAN server can be reached 
