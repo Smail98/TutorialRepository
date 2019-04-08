@@ -69,3 +69,6 @@ used to have files of a website locally and linked to a website remote
                                                  to be used, Port 22 was selected
 4. File Transfer Protocol (FTP) :       does not use encryption. and as a result Port 21 is used when 
                                         selecting a host 
+
+Important Terms:
+DNS-
