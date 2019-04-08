@@ -71,5 +71,6 @@ used to have files of a website locally and linked to a website remote
                                         selecting a host 
 Important Terms:
 DNS- The Domain Name System is a hierarchical and decentralized naming system for computers, services, or other resources connected to the Internet or a private network. 
-IP-  is the principal communications protocol in the Internet protocol suite for relaying datagrams across network boundaries. 
+IP-
+Domain Names-
 Top Level Domain(TLD)-
