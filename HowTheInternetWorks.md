@@ -1,5 +1,6 @@
 # How the Internet Works and Linux
 # How the Internet Works - AFS Tutorial by David Salazar
+# Definitions - by Darshan, David Salazar 
 # April 7th, 2019
 
 
@@ -69,3 +70,39 @@ used to have files of a website locally and linked to a website remote
                                                  to be used, Port 22 was selected
 4. File Transfer Protocol (FTP) :       does not use encryption. and as a result Port 21 is used when 
                                         selecting a host 
+
+5. HTTP: hyper text transfer protocol 
+6. HTTPS: secured hyper text transfer protocol 
+7. ICAN: runs Domain Name Server (DNS). ICAN uses trees to run DNS servers
+8. Hierarchy of servers: there is a layer of DNS servers before the ICAN server can be reached 
+9. Software Protocol: an agreement on something being done. 
+10. Browser and functions: 
+    
+    
+    * browsers are used to connect to the web browser
+    * Browser sends the requests, 
+        1. get    : request to get a webpage
+        2. post   : post new records
+        3. put    : make updates
+        4. delete : delete 
+        5. patch  : update selectively 
+
+11. URL : Universal resource locator (unique address). 
+
+Roy Fielding's Dissertation
+
+Describes how the internet can be used as agiant database with Representational State Transfer(REST). The reason for 
+using the internet as a giant database is to make it easier to share information around the world. REST was used as a 
+guide to design and develop the architecture of the modern Web[1]. REST was used in the design of Hypertext Transfer 
+Protocol and Uniform Resource Indentifier standards from their deployment in Web client and server software.
+
+source:     1. https://www.ics.uci.edu/~fielding/pubs/dissertation/fielding_dissertation.pdf
+
+Important Terms:
+
+DNS- The Domain Name System is a hierarchical and decentralized naming system for computers, services, or other resources connected to the Internet or a private network.
+     name -> ip: forward look up. ip -> name: reverse look up
+IP-  is the principal communications protocol in the Internet protocol suite for relaying datagrams across network boundaries.
+
+Top Level Domain(TLD)- one of the domains at the highest level in the hierarchical Domain Name System of the Internet. It has a direct connection to ICAN
+
