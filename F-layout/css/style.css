@@ -27,17 +27,32 @@ body {
     border: black solid thin;
 }
 #wrapper{
-    width: 960px;
-    margin-left: auto;
+    width:1339px;
+    margin-left: 0;
     margin-right: auto;
+
+}
+
+#sidebar{
+    position: absolute;
+
+    right:0;
+
+    height: 1440px;
+    width: 500px;
+    background-color: lightgreen;
+
 }
 #content{
-    width: 541px;
+    width: 922px;
+    height: 1400px;
     padding-right: 24px;
     padding-left: 24px;
     float: left;
     font-size: 16px;
     line-height: 27px;
+    padding-bottom:2.5rem;
+    background-color: darkgreen;
 
 }
 #content h2{
@@ -54,25 +69,21 @@ body {
 }
 #content h5{
     font-size:16px;
-    line-height:27;
+    line-height:27px;
 }
 #sidebar{
     width: 367px;
     float: left;
+
 }
 #floater{
     clear: both;
 }
 
-
-
-
-
-
-
 .topnav {
     background-color: #333;
     overflow: hidden;
+    width: 1340px;
 }
 .topnav a {
     float: left;
@@ -91,4 +102,13 @@ body {
 .topnav a.active {
     background-color: #4CAF50;
     color: white;
+}
+
+#footer{
+    bottom: 0;
+    width:50%;
+    height: 2.5rem;
+    float: bottom;
+    font-size: 15px;
+
 }
