@@ -1,0 +1,99 @@
+body {
+    background-color: darkseagreen;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: 300;
+}
+
+.fullborder{
+    border: black solid thin;
+}
+#wrapper{
+    position:relative;
+    margin-left: 0;
+    margin-right: auto;
+
+}
+
+#sidebar{
+    position: absolute;
+    right:0;
+    height: 1440px;
+    background-color: lightgreen;
+
+}
+#content{
+    position:absolute;
+    padding-right: 24px;
+    padding-left: 24px;
+    float: left;
+    left:0;
+    right:400px;
+    font-size: 16px;
+    line-height: 27px;
+    padding-bottom:2.5rem;
+    background-color: darkgreen;
+
+}
+#content h2{
+    font-size: 42px;
+    line-height: 65px;
+}
+#content h3{
+    font-size: 26px;
+    line-height: 41px;
+}
+#content h4{
+    font-size:20px;
+    line-height:33px;
+}
+#content h5{
+    font-size:16px;
+    line-height:27px;
+}
+#sidebar{
+    width: 367px;
+    float: left;
+
+}
+#floater{
+    clear: both;
+}
+
+.topnav {
+    position:relative;
+    background-color: #333;
+    overflow: hidden;
+
+}
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+img{
+    float: left;
+    padding-right:10px;
+}
+
+#footer{
+    bottom: 0;
+    width:50%;
+    height: 2.5rem;
+    float: bottom;
+    font-size: 15px;
+
+}
