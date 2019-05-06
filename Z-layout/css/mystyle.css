@@ -1,0 +1,91 @@
+
+
+
+
+body {
+    background-image:url("../images/background.png") ;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: 300;
+}
+
+
+.fullborder {
+    border: black solid thin;
+}
+
+#wrapper {
+    width: 960px;
+    height: 1553px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+#sidebar {
+    width: 367px;
+    float: left;
+}
+
+#footer {
+    clear: both;
+}
+
+#header {
+    height: 200px;
+    line-height: 200px;
+}
+
+#header li {
+    display: inline;
+}
+
+#header ul {
+    margin-right: 31px;
+    margin-top: 0;
+    margin-bottom: 0;
+    float: right;
+
+}
+
+
+#banner {
+    height: 363px;
+    background-image: url("../images/html banner.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    line-height: 363px;
+
+}
+
+
+.paragraph {
+    width: 266px;
+    padding-right: 18px;
+    padding-left: 18px;
+    padding-top: 18px;
+    height: 215px;
+    float: left;
+    -moz-box-shadow:    3px 3px 5px 6px #333333;
+    -webkit-box-shadow: 3px 3px 5px 6px #333333;
+    box-shadow:         3px 3px 5px 6px #333333;
+    margin-top: 18px;
+    margin-right: 18px;
+}
+
+.para-title {
+    border-bottom: 1px solid black;
+}
+.para-content {
+    padding-top: 9px;
+}
+
+.paragraph1 {
+    display: inline;
+}
+.paragraph2 {
+    display: inline;
+}
+.paragraph3 {
+    display: inline;
+}
