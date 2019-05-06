@@ -106,6 +106,7 @@ body {
 
 img{
     float: left;
+    padding-right:10px;
 }
 
 #footer{
