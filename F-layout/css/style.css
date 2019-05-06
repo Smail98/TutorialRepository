@@ -3,31 +3,12 @@ body {
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
     font-weight: 300;
 }
-#box1 {
-    background-color: green;
-    float: left;
-}
-#box2 {
-    background-color: red;
-    float: left;
-}
-#box3 {
-    background-color: blue;
-    clear: both;
-    float: left;
-}
-#box4 {
-    background-color: yellow;
-}
-.box{
-    width : 100px;
-    height : 100px;
-}
+
 .fullborder{
     border: black solid thin;
 }
 #wrapper{
-    width:1339px;
+    position:relative;
     margin-left: 0;
     margin-right: auto;
 
@@ -35,20 +16,18 @@ body {
 
 #sidebar{
     position: absolute;
-
     right:0;
-
     height: 1440px;
-    width: 500px;
     background-color: lightgreen;
 
 }
 #content{
-    width: 922px;
-    height: 1400px;
+    position:absolute;
     padding-right: 24px;
     padding-left: 24px;
     float: left;
+    left:0;
+    right:400px;
     font-size: 16px;
     line-height: 27px;
     padding-bottom:2.5rem;
@@ -81,9 +60,10 @@ body {
 }
 
 .topnav {
+    position:relative;
     background-color: #333;
     overflow: hidden;
-    width: 1340px;
+
 }
 .topnav a {
     float: left;
